@@ -24,5 +24,5 @@ A simple local notes app built using Flutter and SQLite (`sqflite` package). Thi
 
 ## Download APK
 
-You can download the  APK for the Notes App from this link: [Download APK](https://github.com/hudaolayan/Notes/releases/download/AndroidApk/notes-app.apk)
+You can download the  APK for the Notes App from this link: [Download APK](https://github.com/hudaolayan/Notes/releases/tag/AndroidApk)
 
