@@ -1,16 +1,35 @@
-# notes
+# Notes App
 
-Notes application
+A simple local notes app built using Flutter and SQLite (`sqflite` package). This app allows users to create, read, update, and delete notes, with persistent storage via SQLite.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🌱 Splash Screen
+![Splash Screen](screenshots/splash.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📝 Sign Up Screen
+![Sign Up Screen](screenshots/signup.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔑 Sign In Screen
+![Sign In Screen](screenshots/signin.jpg)
+
+### 📑 All Notes Screen
+![All Notes Screen](screenshots/all_notes.jpg)
+
+### ➕ Add Note Screen
+![Add Note Screen](screenshots/add.jpg)
+
+### ✏️ Edit Note Screen
+![Edit Note Screen](screenshots/edit.jpg)
+
+### 🗑️ Delete Note
+![Delete Note](screenshots/delete.jpg)
+
+### 🚪 Logout
+![Logout](screenshots/logout.jpg)
+
+## Download APK
+
+You can download the  APK for the Notes App from this link: [Download APK](https://github.com/hudaolayan/Notes/releases/download/AndroidApk/notes-app.apk)
+
