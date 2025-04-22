@@ -97,7 +97,7 @@ class _SignInScreenState extends State<SignInScreen> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text(AppLocalizations.of(context)!.account_created),
+                  Text(AppLocalizations.of(context)!.dont_have_account),
                   TextButton(
                     onPressed: () {
                       Navigator.push(
